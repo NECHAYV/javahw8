@@ -68,6 +68,7 @@ public class Main {
 
             System.out.printf("Месяц %d, сумма накоплений %.2f руб.%n", month, totalSavings);
         }
+        
 
 
 
